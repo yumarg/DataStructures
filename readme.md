@@ -8,6 +8,7 @@ This repository contains my Python implementations of various data structures (s
 * [Stacks and Queues](http://github.com/yumarg/DataStructures/tree/master/StackAndQueue)
 * [Binary Heaps](http://github.com/yumarg/DataStructures/tree/master/BinaryHeap) (min, max)
 * [Hash Tables](http://github.com/yumarg/DataStructures/tree/master/Hashtable) (chaining, open addressing)
+* [Binary Search Trees](http://github.com/yumarg/DataStructures/tree/master/BinarySearchTree)
 * To be continued..
 
 [](Node, Singly Linked List, Doubly Linked List, Stack, Queue, Binary Max Heap, Binary Min Heap, Hashtable with Chaining, Hashtable with Open Addressing, Binary Search Tree, AVL Tree, Graph)
